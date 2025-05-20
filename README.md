@@ -15,3 +15,7 @@ A simple Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**. Thi
 - CSS3
 - JavaScript (Vanilla)
 
+
+## 🔗 Live Demo
+
+👉 [Click here to try the game](https://aditya11ak.github.io/tic-tac-toe-html-css-js/)
